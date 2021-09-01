@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/HelloBinary.dir/src/main.cpp.o  -o HelloBinary  -Wl,-rpath,/home/welsh/Welsh/CMakeLearn/01Basic/D-shared-libarary/build libHelloLibrary.so 

@@ -1,0 +1,4 @@
+/home/welsh/Welsh/CMakeLearn/01Basic/D-shared-libarary/build/CMakeFiles/rebuild_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/D-shared-libarary/build/CMakeFiles/edit_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/D-shared-libarary/build/CMakeFiles/HelloBinary.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/D-shared-libarary/build/CMakeFiles/HelloLibrary.dir
