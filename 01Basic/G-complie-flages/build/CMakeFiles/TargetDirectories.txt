@@ -1,0 +1,3 @@
+/home/welsh/Welsh/CMakeLearn/01Basic/G-complie-flages/build/CMakeFiles/edit_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/G-complie-flages/build/CMakeFiles/rebuild_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/G-complie-flages/build/CMakeFiles/cmake_examples_compile_flags.dir
