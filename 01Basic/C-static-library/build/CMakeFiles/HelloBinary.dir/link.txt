@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/HelloBinary.dir/src/main.cpp.o  -o HelloBinary  libHelloLibrary.a 

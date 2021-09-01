@@ -1,0 +1,3 @@
+/home/welsh/Welsh/CMakeLearn/01Basic/B-hello-header/build/CMakeFiles/rebuild_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/B-hello-header/build/CMakeFiles/edit_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/B-hello-header/build/CMakeFiles/HelloHeaders.dir
