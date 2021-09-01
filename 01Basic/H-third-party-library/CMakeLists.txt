@@ -23,3 +23,10 @@ target_link_libraries( third_party_include
     PRIVATE
         Boost::filesystem
 )
+
+
+
+## 查找环境中的所包含的包，可以在终端输入
+#         pkg-config --list-all
+#         pkg-config  --cflags eigen3
+#         pkg-config  --libs  eigen3
