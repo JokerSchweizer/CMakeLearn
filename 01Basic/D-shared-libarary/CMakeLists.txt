@@ -12,6 +12,7 @@ project(HelloLibrary)
 
 add_library(HelloLibrary SHARED src/Hello.cpp)
 
+#  As the name suggests an alias target is an alternative name for a target that can be used instead of the real target name in read-only contexts.
 add_library(hello::libaray ALIAS HelloLibrary)
 
 target_include_directories(HelloLibrary PUBLIC ${PROJECT_SOURCE_DIR}/include)

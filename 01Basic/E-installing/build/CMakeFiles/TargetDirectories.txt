@@ -1,0 +1,8 @@
+/home/welsh/Welsh/CMakeLearn/01Basic/E-installing/build/CMakeFiles/install/local.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/E-installing/build/CMakeFiles/install.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/E-installing/build/CMakeFiles/list_install_components.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/E-installing/build/CMakeFiles/rebuild_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/E-installing/build/CMakeFiles/install/strip.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/E-installing/build/CMakeFiles/cmake_examples_inst_bin.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/E-installing/build/CMakeFiles/edit_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/E-installing/build/CMakeFiles/cmake_examples_inst.dir
