@@ -1,0 +1,3 @@
+/home/welsh/Welsh/CMakeLearn/01Basic/L-cpp-standard/cxx-standard/build/CMakeFiles/edit_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/L-cpp-standard/cxx-standard/build/CMakeFiles/rebuild_cache.dir
+/home/welsh/Welsh/CMakeLearn/01Basic/L-cpp-standard/cxx-standard/build/CMakeFiles/hello_cpp11.dir
