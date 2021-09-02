@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/cppcheck-compile-commands/build/subproject1",
+  "command": "/usr/bin/c++      -o CMakeFiles/subproject1.dir/main1.cpp.o -c /home/welsh/Welsh/CMakeLearn/04StaticAnalysis/cppcheck-compile-commands/subproject1/main1.cpp",
+  "file": "/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/cppcheck-compile-commands/subproject1/main1.cpp"
+},
+{
+  "directory": "/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/cppcheck-compile-commands/build/subproject2",
+  "command": "/usr/bin/c++      -o CMakeFiles/subproject2.dir/main2.cpp.o -c /home/welsh/Welsh/CMakeLearn/04StaticAnalysis/cppcheck-compile-commands/subproject2/main2.cpp",
+  "file": "/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/cppcheck-compile-commands/subproject2/main2.cpp"
+}
+]
