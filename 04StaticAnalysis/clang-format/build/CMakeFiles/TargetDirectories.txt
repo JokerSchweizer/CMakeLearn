@@ -1,0 +1,8 @@
+/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/clang-format/build/CMakeFiles/rebuild_cache.dir
+/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/clang-format/build/CMakeFiles/edit_cache.dir
+/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/clang-format/build/subproject1/CMakeFiles/rebuild_cache.dir
+/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/clang-format/build/subproject1/CMakeFiles/edit_cache.dir
+/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/clang-format/build/subproject1/CMakeFiles/subproject1.dir
+/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/clang-format/build/subproject2/CMakeFiles/rebuild_cache.dir
+/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/clang-format/build/subproject2/CMakeFiles/edit_cache.dir
+/home/welsh/Welsh/CMakeLearn/04StaticAnalysis/clang-format/build/subproject2/CMakeFiles/subproject2.dir
