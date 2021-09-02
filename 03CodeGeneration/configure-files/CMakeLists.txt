@@ -2,6 +2,8 @@
 #在生成过程中，会产生一些变量
 #path.h.in 是包含构建的路径
 #ver.h.in  包含构建的版本
+#  我们可以通过configure_file()函数来提交变量，进行变量替换工作
+#  使用${}语法或ver.h.in文件中的@@。生成之后，一个新的ver.h和path.h将在PROJECT BINARY DIR中可用。
 ###########################################################
 cmake_minimum_required(VERSION 3.5)
 
