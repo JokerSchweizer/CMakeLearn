@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../sublibrary1/include/sublib1/sublib1.h
+
+../sublibrary2/include/sublib2/sublib2.h
+iostream
+-
+
+/home/welsh/Welsh/CMakeLearn/02SubProjects/A-basic/subbinary/main.cpp
+sublib1/sublib1.h
+/home/welsh/Welsh/CMakeLearn/02SubProjects/A-basic/subbinary/sublib1/sublib1.h
+sublib2/sublib2.h
+/home/welsh/Welsh/CMakeLearn/02SubProjects/A-basic/subbinary/sublib2/sublib2.h
+
